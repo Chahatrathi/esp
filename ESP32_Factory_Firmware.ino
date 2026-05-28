@@ -17,7 +17,7 @@ const String DEVICE_ID = "ARTI-GROUP-S3-01";
 const String CURRENT_VERSION = "1.0.0"; 
 
 // --- CLOUD BACKEND ---
-const char* GOOGLE_SCRIPT_URL = "https://script.google.com/a/macros/aracharatventures.com/s/AKfycbwsCd8A5YusMVxA7KU5PBW-G5RcmMD-_KCcr7triRLtY_N_ygTYcTTJA02hM2Jc5WeM/exec";
+const char* GOOGLE_SCRIPT_URL = "https://script.google.com/a/macros/aracharatventures.com/s/AKfycbyTw6gDtkGZB357QgHWkhwkg-n3vlImvrc1juWsfo47VARV0Vc17rR7x0uagnzvhLlK/exec";
 // --- WIFI CONFIGURATION ---
 const char* WIFI_SSID = "Note";       
 const char* WIFI_PASSWORD = "12345678"; 
